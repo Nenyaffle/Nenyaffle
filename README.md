@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivmvn/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jungmin.ji@icloud.com)
+[![Email](https://img.shields.io/badge/email-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:jungmin.ji@icloud.com)
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![Vue](https://img.shields.io/badge/Vue-002E3B?style=for-the-badge&logo=vuedotjs&logoColor=#00DC82)
 ![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)

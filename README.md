@@ -1,6 +1,6 @@
 # Hello
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yaffleria)
-[![Email](https://img.shields.io/badge/email-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:jungmin.ji@icloud.com)
+[![Email](https://img.shields.io/badge/email-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:yaffleria@gmail.com)
 
 ## My Tech Stack
 ![Vue](https://img.shields.io/badge/Vue-002E3B?style=for-the-badge&logo=vuedotjs&logoColor=#00DC82)
